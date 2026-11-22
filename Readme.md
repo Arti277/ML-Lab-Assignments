@@ -8,11 +8,17 @@ This repository contains my AI and Machine Learning practical assignments comple
 
 The main purpose of this repository is to practice machine learning concepts, understand how they work, and apply them to real datasets.
 
-## Assignment
+## Assignments
 
-### Housing Price Prediction
-
-In this assignment, I work with a housing dataset to understand the relationship between different house features and their prices.
+| Assignment 2 | Linear Regression |
+| Assignment 3 | Classification |
+| Assignment 4 | Credit Risk Analysis |
+| Assignment 6 | Customer-related Analysis |
+| Assignment 7 | Spam Email Detection using a Real Email Dataset |
+| Assignment 8 | Additional Machine Learning Assignment |
+| Assignment 9 | Handwritten Digit Recognition |
+| Assignment 10 | Bias Detection |
+| Assignment 11 | Edge AI |
 
 The notebook includes data analysis and machine learning steps to explore the dataset and make predictions.
 
@@ -25,6 +31,7 @@ The notebook includes data analysis and machine learning steps to explore the da
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- NLTK
 
 ## How to Use
 
